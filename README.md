@@ -1,19 +1,19 @@
 
-### Olá! Eu sou o André Luiz 😀
+### Hi! I am André Luiz 😀
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-luiz-139a27134/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andreckoz/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/andreckoz)
 
-## Alguns repositórios interessantes:
-- [Spring Angular - Último módulo da capacitação WebAcademy](https://github.com/andrecko/topicos-emergentes-webacademy)<br/>
-- [React - Consumindo uma API de Pokémon](https://github.com/andrecko/pokedex)<br/>
+## Some interesting repositories:
+- [Spring Angular - Last WebAcademy's training module](https://github.com/andrecko/topicos-emergentes-webacademy)<br/>
+- [React - Consuming a Pokémon API](https://github.com/andrecko/pokedex)<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrecko&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![André GitHub stats](https://github-readme-stats.vercel.app/api?username=andrecko&show_icons=true&theme=radical)
 
-## Tecnologias com familiaridade
+## Technologies with familiarity
 
 <div style="display: inline_block"><br/>
     <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
