@@ -7,7 +7,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/andreckoz)
 
 ## Some interesting repositories:
-- [Spring Angular - Last WebAcademy's training module](https://github.com/andrecko/topicos-emergentes-webacademy)<br/>
+- [Spring Angular - Last module of the WebAcademy training](https://github.com/andrecko/topicos-emergentes-webacademy)<br/>
 - [React - Consuming a Pokémon API](https://github.com/andrecko/pokedex)<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrecko&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
