@@ -11,7 +11,6 @@
 - [React - Consuming a Pokémon API](https://github.com/andrecko/pokedex)<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrecko&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![André GitHub stats](https://github-readme-stats.vercel.app/api?username=andrecko&show_icons=true&theme=radical)
 
 ## Technologies with familiarity
 
